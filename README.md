@@ -34,10 +34,10 @@ Once the frontend server is running, open your browser and go to:
 
 ## Screenshots
 
-![App Screenshot](frontend\src\images\website-screenshots\ecommerce_homepage-1.png)
-![App Screenshot](frontend\src\images\website-screenshots\ecommerce_homepage-2.png)
-![App Screenshot](frontend\src\images\website-screenshots\addtocartpage.png)
-![App Screenshot](frontend\src\images\website-screenshots\cartpage.png)
+![App Screenshot](frontend/src/images/website-screenshots/ecommerce_homepage-1.png)
+![App Screenshot](frontend/src/images/website-screenshots/ecommerce_homepage-2.png)
+![App Screenshot](frontend/src/images/website-screenshots/addtocartpage.png)
+![App Screenshot](frontend/src/images/website-screenshots/cartpage.png)
 
 
 
